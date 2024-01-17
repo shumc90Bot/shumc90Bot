@@ -11,5 +11,6 @@ Been working in Social Service for a decade;
 - Toolset
 <br>
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,jquery,react,redux,vue,ts,wordpress,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 Adapt what is useful, reject what is useless, and add what is specifically your own. - Bruce Lee
