@@ -10,9 +10,6 @@ Been working in Social Service for a decade;
 <br>
 - Toolset
 <br>
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,jquery,react,redux,vue,ts,wordpress,figma&perline=5)](https://skillicons.dev)
-<!---
-shumc90Bot/shumc90Bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,jquery,react,redux,vue,ts,wordpress,figma)](https://skillicons.dev)
+
 Adapt what is useful, reject what is useless, and add what is specifically your own. - Bruce Lee
