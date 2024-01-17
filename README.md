@@ -2,14 +2,12 @@
 - Im a autodiduct and a maker. Currently learning to make things by coding.
 - 📫 Reach me by andee.c910@gmail.com
 - ⚡ Fun fact: 
-<br>
 partically live off Mcdonald's;
 Born and raised in Hong Kong;
 Been working in Social Service for a decade;
 
-<br>
+
 - Toolset
-<br>
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,jquery,react,redux,vue,ts,wordpress,figma)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
